@@ -9,13 +9,13 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Be My Valentine pls? 💝",
+    pageTitle: "Be My Valentine pls? 🐧​",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['🎮​', '​🏈​', '​♟️​', '​​♌​', '​​​♉​'],  // Heart emojis
+        bears: ['​​​​❤️​', '​​​​​💌​']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -25,12 +25,12 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I love you! 🌸​"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Next🪻​"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
@@ -43,8 +43,8 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        high: "Just as much as the work husbands and side pieces?💝",              // Shows when they go past 1000%
+        normal: "Oh yay, i knew it hehe 🥰"                        // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
